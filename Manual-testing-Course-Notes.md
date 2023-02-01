@@ -2,7 +2,7 @@
 
 What is Software and what type of software?
  
-----------------------------------------------------------------------------------------------
+------------------------------------------------------
 What is software testing?
 -	Software testing is part of software development.
 -	Software development is not only about writing code. 
