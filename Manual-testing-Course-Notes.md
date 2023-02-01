@@ -1,7 +1,8 @@
 # Manual Testing
 
 What is Software and what type of software?
- 
+ ![image](https://user-images.githubusercontent.com/47386222/215966294-c32fe3c7-c1e4-4900-845c-3e4e091b1ec0.png)
+
 ------------------------------------------------------
 What is software testing?
 -	Software testing is part of software development.
