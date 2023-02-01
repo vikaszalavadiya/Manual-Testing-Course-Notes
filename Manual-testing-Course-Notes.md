@@ -52,7 +52,7 @@ P – Process
 P – Product
 
 ----------------------------------------------------------------------------------------------
-###Waterfall Model:
+### Waterfall Model:
 
 ![image](https://user-images.githubusercontent.com/47386222/215967862-efce43d6-3c9c-41c1-bb55-d5e64ccf07c4.png)
 
